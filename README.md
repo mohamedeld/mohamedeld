@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrfaay</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **UpWork**
 
-- 🌱 I’m currently learning **Data Science & Node.js**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 💬 Ask me about **web development & Data Science**
+- 💬 Ask me about **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
