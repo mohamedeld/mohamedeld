@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UpWork**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analysis & Data Science**
 
 - 👯 I’m looking to collaborate on **github**
 
