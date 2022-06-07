@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrfaay</h1>
 <h3 align="center">Python Developer</h3>
 
-- 🔭 I’m currently working on **UpWork**
 
 - 🌱 I’m currently learning **Data Analysis & Data Science**
 
